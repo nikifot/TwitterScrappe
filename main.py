@@ -28,15 +28,16 @@ except TwitterSearchException as e:
 
 images = []
 for i, tweet in enumerate(results):
-    # if i > 0:
-    #     break
+#     if i > 10:
+#         break
     with open('{1}{0}.json'.format(tweet['id_str'],destination_path), 'w') as jsonfile:
         json.dump(tweet, jsonfile, indent=4)
         jsonfile.close()
-    print(json.dumps(tweet, indent=4))
-    for i, image in enumerate(tweet["entities"]["media"]):
-        r = requests.get(image["media_url"])
-        with open('{1}{0}_{2}.jpeg'.format(tweet['id_str'], destination_path, i), 'wb') as imagefile:
-            for chunk in r:
-                imagefile.write(chunk)
-            imagefile.close()
+    # print(json.dumps(tweet, indent=4))
+    if "media" in tweet["entities"]:
+        for i, image in enumerate(tweet["entities"]["media"]):
+            r = requests.get(image["media_url"])
+            with open('{1}{0}_{2}.jpeg'.format(tweet['id_str'], destination_path, i), 'wb') as imagefile:
+                for chunk in r:
+                    imagefile.write(chunk)
+                imagefile.close()

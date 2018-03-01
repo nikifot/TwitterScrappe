@@ -34,15 +34,22 @@ for i, tweet in enumerate(results):
         with open('{1}{0}.json'.format(tweet['id_str'], destination_path), 'w') as jsonfile:
             json.dump(tweet, jsonfile, indent=4)
             jsonfile.close()
-        for i, image in enumerate(tweet["entities"]["media"]):
-            r = requests.get(image["media_url"])
+        for i, image in enumerate(tweet["extended_entities"]["media"]):
+            link = image["media_url"]
             if image["type"] == "photo":
                 t = "jpeg"
             elif "video" in image["type"]:
                 t = "mp4"
+                link = 'https://video.twimg.com/tweet_video/{}.mp4'.format(
+                    image["media_url"].split('/')[-1].split('.')[0])
             elif image["type"] == "animated_gif":
-                t = "gif"
+                t = "mp4"
+                link = 'https://video.twimg.com/tweet_video/{}.mp4'.format(
+                    image["media_url"].split('/')[-1].split('.')[0])
+                # print(link) # debug line
+            r = requests.get(link, stream=True)
             with open('{1}{0}_{2}.{3}'.format(tweet['id_str'], destination_path, i, t), 'wb') as imagefile:
-                for chunk in r:
-                    imagefile.write(chunk)
+                for chunk in r.iter_content(chunk_size=512):
+                    if chunk:
+                        imagefile.write(chunk)
                 imagefile.close()

@@ -1,0 +1,291 @@
+{
+    "created_at": "Thu Jun 08 07:32:27 +0000 2017",
+    "id": 872717946493206528,
+    "id_str": "872717946493206528",
+    "text": "We pledge to bring gravy to every meal. https://t.co/8pGOfle9JU",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/8pGOfle9JU",
+                "expanded_url": "https://twitter.com/liamtulley/status/872555417854988288",
+                "display_url": "twitter.com/liamtulley/sta\u2026",
+                "indices": [
+                    40,
+                    63
+                ]
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2669580739,
+        "id_str": "2669580739",
+        "name": "KFC UK & Ireland",
+        "screen_name": "KFC_UKI",
+        "location": "UK & Ireland",
+        "description": "Customer Care - @KFC_UKI_Help\n\nSnapchat - KFC_UKI",
+        "url": "http://t.co/LlCdWdv7T3",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/LlCdWdv7T3",
+                        "expanded_url": "http://www.kfc.co.uk/",
+                        "display_url": "kfc.co.uk",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 60907,
+        "friends_count": 4665,
+        "listed_count": 259,
+        "created_at": "Tue Jul 22 14:23:30 +0000 2014",
+        "favourites_count": 10197,
+        "utc_offset": 0,
+        "time_zone": "London",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 26421,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/504625476728418306/tZZU39R2.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/504625476728418306/tZZU39R2.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/804290535905259520/K6HVOG1O_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/804290535905259520/K6HVOG1O_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2669580739/1514893031",
+        "profile_link_color": "C42031",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 872555417854988288,
+    "quoted_status_id_str": "872555417854988288",
+    "quoted_status": {
+        "created_at": "Wed Jun 07 20:46:37 +0000 2017",
+        "id": 872555417854988288,
+        "id_str": "872555417854988288",
+        "text": "It's quite simple who to vote for. @KFC_UKI #GeneralElection17 https://t.co/E1QXtQIxdt",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "GeneralElection17",
+                    "indices": [
+                        44,
+                        62
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "KFC_UKI",
+                    "name": "KFC UK & Ireland",
+                    "id": 2669580739,
+                    "id_str": "2669580739",
+                    "indices": [
+                        35,
+                        43
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 872555409218973701,
+                    "id_str": "872555409218973701",
+                    "indices": [
+                        63,
+                        86
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DBvwhY1XsAUrhPm.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DBvwhY1XsAUrhPm.jpg",
+                    "url": "https://t.co/E1QXtQIxdt",
+                    "display_url": "pic.twitter.com/E1QXtQIxdt",
+                    "expanded_url": "https://twitter.com/liamtulley/status/872555417854988288/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 466,
+                            "h": 448,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 466,
+                            "h": 448,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 466,
+                            "h": 448,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 872555409218973701,
+                    "id_str": "872555409218973701",
+                    "indices": [
+                        63,
+                        86
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DBvwhY1XsAUrhPm.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DBvwhY1XsAUrhPm.jpg",
+                    "url": "https://t.co/E1QXtQIxdt",
+                    "display_url": "pic.twitter.com/E1QXtQIxdt",
+                    "expanded_url": "https://twitter.com/liamtulley/status/872555417854988288/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 466,
+                            "h": 448,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 466,
+                            "h": 448,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 466,
+                            "h": 448,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 292605467,
+            "id_str": "292605467",
+            "name": "Liam Tulley",
+            "screen_name": "liamtulley",
+            "location": "Up North.",
+            "description": "Comedian: Talks to strangers for money. All views aren't my own.",
+            "url": "https://t.co/nT7BYJaR6i",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/nT7BYJaR6i",
+                            "expanded_url": "http://www.liamtulley.co.uk",
+                            "display_url": "liamtulley.co.uk",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 490,
+            "friends_count": 627,
+            "listed_count": 7,
+            "created_at": "Tue May 03 22:51:35 +0000 2011",
+            "favourites_count": 406,
+            "utc_offset": 0,
+            "time_zone": "London",
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 696,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/464156342182109184/CNCfVysz.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/464156342182109184/CNCfVysz.jpeg",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/956174515188445184/NUKpuRf9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/956174515188445184/NUKpuRf9_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/292605467/1516804708",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "retweet_count": 47,
+    "favorite_count": 93,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

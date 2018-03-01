@@ -1,0 +1,311 @@
+{
+    "created_at": "Tue Jul 25 17:29:34 +0000 2017",
+    "id": 889900445996646400,
+    "id_str": "889900445996646400",
+    "text": "RT @KateOvens: @KFC_UKI video is up on @ladbible  Instagram stories \ud83c\udf57 returning the chicken back to Tim! Go check it out \ud83d\ude0a https://t.co/OJM\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "KateOvens",
+                "name": "Kate Ovens",
+                "id": 302344443,
+                "id_str": "302344443",
+                "indices": [
+                    3,
+                    13
+                ]
+            },
+            {
+                "screen_name": "KFC_UKI",
+                "name": "KFC UK & Ireland",
+                "id": 2669580739,
+                "id_str": "2669580739",
+                "indices": [
+                    15,
+                    23
+                ]
+            },
+            {
+                "screen_name": "ladbible",
+                "name": "LADbible",
+                "id": 331311644,
+                "id_str": "331311644",
+                "indices": [
+                    39,
+                    48
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2669580739,
+        "id_str": "2669580739",
+        "name": "KFC UK & Ireland",
+        "screen_name": "KFC_UKI",
+        "location": "UK & Ireland",
+        "description": "Customer Care - @KFC_UKI_Help\n\nSnapchat - KFC_UKI",
+        "url": "http://t.co/LlCdWdv7T3",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/LlCdWdv7T3",
+                        "expanded_url": "http://www.kfc.co.uk/",
+                        "display_url": "kfc.co.uk",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 60907,
+        "friends_count": 4665,
+        "listed_count": 259,
+        "created_at": "Tue Jul 22 14:23:30 +0000 2014",
+        "favourites_count": 10197,
+        "utc_offset": 0,
+        "time_zone": "London",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 26421,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/504625476728418306/tZZU39R2.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/504625476728418306/tZZU39R2.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/804290535905259520/K6HVOG1O_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/804290535905259520/K6HVOG1O_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2669580739/1514893031",
+        "profile_link_color": "C42031",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 25 17:23:53 +0000 2017",
+        "id": 889899016653295616,
+        "id_str": "889899016653295616",
+        "text": "@KFC_UKI video is up on @ladbible  Instagram stories \ud83c\udf57 returning the chicken back to Tim! Go check it out \ud83d\ude0a https://t.co/OJMHtWJgzp",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "KFC_UKI",
+                    "name": "KFC UK & Ireland",
+                    "id": 2669580739,
+                    "id_str": "2669580739",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                },
+                {
+                    "screen_name": "ladbible",
+                    "name": "LADbible",
+                    "id": 331311644,
+                    "id_str": "331311644",
+                    "indices": [
+                        24,
+                        33
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 889898990950649856,
+                    "id_str": "889898990950649856",
+                    "indices": [
+                        108,
+                        131
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFmOatmXkAA7t3q.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFmOatmXkAA7t3q.jpg",
+                    "url": "https://t.co/OJMHtWJgzp",
+                    "display_url": "pic.twitter.com/OJMHtWJgzp",
+                    "expanded_url": "https://twitter.com/KateOvens/status/889899016653295616/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1812,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 602,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1062,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 889898990950649856,
+                    "id_str": "889898990950649856",
+                    "indices": [
+                        108,
+                        131
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DFmOatmXkAA7t3q.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DFmOatmXkAA7t3q.jpg",
+                    "url": "https://t.co/OJMHtWJgzp",
+                    "display_url": "pic.twitter.com/OJMHtWJgzp",
+                    "expanded_url": "https://twitter.com/KateOvens/status/889899016653295616/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1812,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 602,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1062,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 2669580739,
+        "in_reply_to_user_id_str": "2669580739",
+        "in_reply_to_screen_name": "KFC_UKI",
+        "user": {
+            "id": 302344443,
+            "id_str": "302344443",
+            "name": "Kate Ovens",
+            "screen_name": "KateOvens",
+            "location": "London",
+            "description": "I eat lots and also am a presenter for @ladbible. snapchat is lols - kovens12",
+            "url": "https://t.co/HlqIMTUnlS",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/HlqIMTUnlS",
+                            "expanded_url": "http://www.facebook.com/pages/Kates-Food-Challenges/863289737089545",
+                            "display_url": "facebook.com/pages/Kates-Fo\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 5273,
+            "friends_count": 450,
+            "listed_count": 16,
+            "created_at": "Sat May 21 01:21:06 +0000 2011",
+            "favourites_count": 1899,
+            "utc_offset": 3600,
+            "time_zone": "Amsterdam",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 3915,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/809080364283162624/vgHj8MKs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/809080364283162624/vgHj8MKs_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/302344443/1477422561",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 26,
+        "favorite_count": 33,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 26,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

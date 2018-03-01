@@ -1,0 +1,398 @@
+{
+    "created_at": "Tue Mar 07 13:22:33 +0000 2017",
+    "id": 839103981037191168,
+    "id_str": "839103981037191168",
+    "text": "RT @Supersaff: Oh my good God the Dirty Louisiana burger at @KFC_UKI is the nicest thing I have EVER eaten \ud83d\ude0d https://t.co/vffCtzO8cC",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Supersaff",
+                "name": "Saffron",
+                "id": 45232706,
+                "id_str": "45232706",
+                "indices": [
+                    3,
+                    13
+                ]
+            },
+            {
+                "screen_name": "KFC_UKI",
+                "name": "KFC UK & Ireland",
+                "id": 2669580739,
+                "id_str": "2669580739",
+                "indices": [
+                    60,
+                    68
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 839103160169943040,
+                "id_str": "839103160169943040",
+                "indices": [
+                    109,
+                    132
+                ],
+                "media_url": "http://pbs.twimg.com/media/C6UX4N_WUAAQRtO.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C6UX4N_WUAAQRtO.jpg",
+                "url": "https://t.co/vffCtzO8cC",
+                "display_url": "pic.twitter.com/vffCtzO8cC",
+                "expanded_url": "https://twitter.com/Supersaff/status/839103177614032897/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 839103177614032897,
+                "source_status_id_str": "839103177614032897",
+                "source_user_id": 45232706,
+                "source_user_id_str": "45232706"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 839103160169943040,
+                "id_str": "839103160169943040",
+                "indices": [
+                    109,
+                    132
+                ],
+                "media_url": "http://pbs.twimg.com/media/C6UX4N_WUAAQRtO.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C6UX4N_WUAAQRtO.jpg",
+                "url": "https://t.co/vffCtzO8cC",
+                "display_url": "pic.twitter.com/vffCtzO8cC",
+                "expanded_url": "https://twitter.com/Supersaff/status/839103177614032897/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 839103177614032897,
+                "source_status_id_str": "839103177614032897",
+                "source_user_id": 45232706,
+                "source_user_id_str": "45232706"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2669580739,
+        "id_str": "2669580739",
+        "name": "KFC UK & Ireland",
+        "screen_name": "KFC_UKI",
+        "location": "UK & Ireland",
+        "description": "Customer Care - @KFC_UKI_Help\n\nSnapchat - KFC_UKI",
+        "url": "http://t.co/LlCdWdv7T3",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/LlCdWdv7T3",
+                        "expanded_url": "http://www.kfc.co.uk/",
+                        "display_url": "kfc.co.uk",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 60907,
+        "friends_count": 4665,
+        "listed_count": 259,
+        "created_at": "Tue Jul 22 14:23:30 +0000 2014",
+        "favourites_count": 10197,
+        "utc_offset": 0,
+        "time_zone": "London",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 26421,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/504625476728418306/tZZU39R2.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/504625476728418306/tZZU39R2.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/804290535905259520/K6HVOG1O_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/804290535905259520/K6HVOG1O_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2669580739/1514893031",
+        "profile_link_color": "C42031",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Mar 07 13:19:21 +0000 2017",
+        "id": 839103177614032897,
+        "id_str": "839103177614032897",
+        "text": "Oh my good God the Dirty Louisiana burger at @KFC_UKI is the nicest thing I have EVER eaten \ud83d\ude0d https://t.co/vffCtzO8cC",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "KFC_UKI",
+                    "name": "KFC UK & Ireland",
+                    "id": 2669580739,
+                    "id_str": "2669580739",
+                    "indices": [
+                        45,
+                        53
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 839103160169943040,
+                    "id_str": "839103160169943040",
+                    "indices": [
+                        94,
+                        117
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/C6UX4N_WUAAQRtO.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/C6UX4N_WUAAQRtO.jpg",
+                    "url": "https://t.co/vffCtzO8cC",
+                    "display_url": "pic.twitter.com/vffCtzO8cC",
+                    "expanded_url": "https://twitter.com/Supersaff/status/839103177614032897/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1536,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 839103160169943040,
+                    "id_str": "839103160169943040",
+                    "indices": [
+                        94,
+                        117
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/C6UX4N_WUAAQRtO.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/C6UX4N_WUAAQRtO.jpg",
+                    "url": "https://t.co/vffCtzO8cC",
+                    "display_url": "pic.twitter.com/vffCtzO8cC",
+                    "expanded_url": "https://twitter.com/Supersaff/status/839103177614032897/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1536,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 45232706,
+            "id_str": "45232706",
+            "name": "Saffron",
+            "screen_name": "Supersaff",
+            "location": "My head is in the clouds.",
+            "description": "I love travelling, gaming, coffee, food, tattoos, cats, music, Tegan and Sara, and most of all, my everything, Laura... \ud83d\udc95\ud83c\udf08\ud83c\udfb6\ud83c\udfae\u2708\ufe0f",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 904,
+            "friends_count": 607,
+            "listed_count": 2,
+            "created_at": "Sat Jun 06 22:52:35 +0000 2009",
+            "favourites_count": 8972,
+            "utc_offset": 0,
+            "time_zone": "London",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 34149,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "0A0904",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/468480563272101888/7cCElIN8.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/468480563272101888/7cCElIN8.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/964925257592328193/Zj1ujAvq_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/964925257592328193/Zj1ujAvq_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/45232706/1504987145",
+            "profile_link_color": "A12B22",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "38d67cacb385e69d",
+            "url": "https://api.twitter.com/1.1/geo/id/38d67cacb385e69d.json",
+            "place_type": "city",
+            "name": "Leicester",
+            "full_name": "Leicester, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.215135,
+                            52.580667
+                        ],
+                        [
+                            -1.046205,
+                            52.580667
+                        ],
+                        [
+                            -1.046205,
+                            52.67186
+                        ],
+                        [
+                            -1.215135,
+                            52.67186
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 25,
+        "favorite_count": 39,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 25,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

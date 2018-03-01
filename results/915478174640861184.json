@@ -1,0 +1,297 @@
+{
+    "created_at": "Wed Oct 04 07:26:20 +0000 2017",
+    "id": 915478174640861184,
+    "id_str": "915478174640861184",
+    "text": "RT @Tobjizzle: Check my video with @Manny_Official featuring #KFC and the #DoubleDown https://t.co/r6K3nMMn7V @KFC_UKI #ad",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "KFC",
+                "indices": [
+                    61,
+                    65
+                ]
+            },
+            {
+                "text": "DoubleDown",
+                "indices": [
+                    74,
+                    85
+                ]
+            },
+            {
+                "text": "ad",
+                "indices": [
+                    119,
+                    122
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Tobjizzle",
+                "name": "Tobi",
+                "id": 51008528,
+                "id_str": "51008528",
+                "indices": [
+                    3,
+                    13
+                ]
+            },
+            {
+                "screen_name": "Manny_Official",
+                "name": "Manny",
+                "id": 701064373,
+                "id_str": "701064373",
+                "indices": [
+                    35,
+                    50
+                ]
+            },
+            {
+                "screen_name": "KFC_UKI",
+                "name": "KFC UK & Ireland",
+                "id": 2669580739,
+                "id_str": "2669580739",
+                "indices": [
+                    110,
+                    118
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/r6K3nMMn7V",
+                "expanded_url": "http://youtu.be/fAKW_P1zWoI?a",
+                "display_url": "youtu.be/fAKW_P1zWoI?a",
+                "indices": [
+                    86,
+                    109
+                ]
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2669580739,
+        "id_str": "2669580739",
+        "name": "KFC UK & Ireland",
+        "screen_name": "KFC_UKI",
+        "location": "UK & Ireland",
+        "description": "Customer Care - @KFC_UKI_Help\n\nSnapchat - KFC_UKI",
+        "url": "http://t.co/LlCdWdv7T3",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/LlCdWdv7T3",
+                        "expanded_url": "http://www.kfc.co.uk/",
+                        "display_url": "kfc.co.uk",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 60907,
+        "friends_count": 4665,
+        "listed_count": 259,
+        "created_at": "Tue Jul 22 14:23:30 +0000 2014",
+        "favourites_count": 10197,
+        "utc_offset": 0,
+        "time_zone": "London",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 26421,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/504625476728418306/tZZU39R2.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/504625476728418306/tZZU39R2.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/804290535905259520/K6HVOG1O_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/804290535905259520/K6HVOG1O_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2669580739/1514893031",
+        "profile_link_color": "C42031",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Oct 04 00:00:03 +0000 2017",
+        "id": 915365863812997120,
+        "id_str": "915365863812997120",
+        "text": "Check my video with @Manny_Official featuring #KFC and the #DoubleDown https://t.co/r6K3nMMn7V @KFC_UKI #ad",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "KFC",
+                    "indices": [
+                        46,
+                        50
+                    ]
+                },
+                {
+                    "text": "DoubleDown",
+                    "indices": [
+                        59,
+                        70
+                    ]
+                },
+                {
+                    "text": "ad",
+                    "indices": [
+                        104,
+                        107
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Manny_Official",
+                    "name": "Manny",
+                    "id": 701064373,
+                    "id_str": "701064373",
+                    "indices": [
+                        20,
+                        35
+                    ]
+                },
+                {
+                    "screen_name": "KFC_UKI",
+                    "name": "KFC UK & Ireland",
+                    "id": 2669580739,
+                    "id_str": "2669580739",
+                    "indices": [
+                        95,
+                        103
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/r6K3nMMn7V",
+                    "expanded_url": "http://youtu.be/fAKW_P1zWoI?a",
+                    "display_url": "youtu.be/fAKW_P1zWoI?a",
+                    "indices": [
+                        71,
+                        94
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 51008528,
+            "id_str": "51008528",
+            "name": "Tobi",
+            "screen_name": "Tobjizzle",
+            "location": "Still Swervin...",
+            "description": "\ud83d\udc9b #TeamSKRRR",
+            "url": "http://www.youtube.com/tbjzl",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://www.youtube.com/tbjzl",
+                            "expanded_url": null,
+                            "indices": [
+                                0,
+                                28
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1409695,
+            "friends_count": 1585,
+            "listed_count": 764,
+            "created_at": "Fri Jun 26 10:41:05 +0000 2009",
+            "favourites_count": 16853,
+            "utc_offset": 0,
+            "time_zone": "London",
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 154176,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/946788272105238528/Vm2HJaG9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/946788272105238528/Vm2HJaG9_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/51008528/1514566872",
+            "profile_link_color": "000000",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 93,
+        "favorite_count": 1102,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 93,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

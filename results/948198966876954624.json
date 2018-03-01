@@ -1,0 +1,511 @@
+{
+    "created_at": "Tue Jan 02 14:27:05 +0000 2018",
+    "id": 948198966876954624,
+    "id_str": "948198966876954624",
+    "text": "RT @JustinDealey: The Colonel would be proud @kfc @KFC_UKI https://t.co/lIFdO3xEu6",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "JustinDealey",
+                "name": "Justin Dealey",
+                "id": 252271613,
+                "id_str": "252271613",
+                "indices": [
+                    3,
+                    16
+                ]
+            },
+            {
+                "screen_name": "kfc",
+                "name": "KFC",
+                "id": 15392391,
+                "id_str": "15392391",
+                "indices": [
+                    45,
+                    49
+                ]
+            },
+            {
+                "screen_name": "KFC_UKI",
+                "name": "KFC UK & Ireland",
+                "id": 2669580739,
+                "id_str": "2669580739",
+                "indices": [
+                    50,
+                    58
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 947252321381158913,
+                "id_str": "947252321381158913",
+                "indices": [
+                    59,
+                    82
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/947252321381158913/pu/img/VkBSki3iHYxYmNVO.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/947252321381158913/pu/img/VkBSki3iHYxYmNVO.jpg",
+                "url": "https://t.co/lIFdO3xEu6",
+                "display_url": "pic.twitter.com/lIFdO3xEu6",
+                "expanded_url": "https://twitter.com/JustinDealey/status/947252904729219073/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 848,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 848,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 385,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 947252904729219073,
+                "source_status_id_str": "947252904729219073",
+                "source_user_id": 252271613,
+                "source_user_id_str": "252271613"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 947252321381158913,
+                "id_str": "947252321381158913",
+                "indices": [
+                    59,
+                    82
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/947252321381158913/pu/img/VkBSki3iHYxYmNVO.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/947252321381158913/pu/img/VkBSki3iHYxYmNVO.jpg",
+                "url": "https://t.co/lIFdO3xEu6",
+                "display_url": "pic.twitter.com/lIFdO3xEu6",
+                "expanded_url": "https://twitter.com/JustinDealey/status/947252904729219073/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 848,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 848,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 385,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 947252904729219073,
+                "source_status_id_str": "947252904729219073",
+                "source_user_id": 252271613,
+                "source_user_id_str": "252271613",
+                "video_info": {
+                    "aspect_ratio": [
+                        53,
+                        30
+                    ],
+                    "duration_millis": 84800,
+                    "variants": [
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/947252321381158913/pu/vid/318x180/QO0TSqVdsc-6fYqO.mp4"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/947252321381158913/pu/vid/636x360/r2MDwMJcUdqIhV_g.mp4"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/947252321381158913/pu/pl/ZGJYlgZ6jXCK7Xx4.m3u8"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false,
+                    "source_user": {
+                        "id": 252271613,
+                        "id_str": "252271613",
+                        "name": "Justin Dealey",
+                        "screen_name": "JustinDealey",
+                        "location": "",
+                        "description": "Award Winning Reporter/Presenter. Full time at BBC 3CR. Also do stuff for BBC Radio London and BBC Look East.",
+                        "url": "https://t.co/frQa6piKu6",
+                        "entities": {
+                            "url": {
+                                "urls": [
+                                    {
+                                        "url": "https://t.co/frQa6piKu6",
+                                        "expanded_url": "http://www.bbc.co.uk/programmes/p001d7lx/episodes/player",
+                                        "display_url": "bbc.co.uk/programmes/p00\u2026",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            },
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "protected": false,
+                        "followers_count": 3458,
+                        "friends_count": 287,
+                        "listed_count": 22,
+                        "created_at": "Mon Feb 14 21:19:05 +0000 2011",
+                        "favourites_count": 2968,
+                        "utc_offset": -36000,
+                        "time_zone": "Hawaii",
+                        "geo_enabled": true,
+                        "verified": false,
+                        "statuses_count": 5472,
+                        "lang": "en",
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/933466326114369536/j_aS1uhW_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/933466326114369536/j_aS1uhW_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/252271613/1511390469",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": false,
+                        "follow_request_sent": false,
+                        "notifications": false,
+                        "translator_type": "none"
+                    }
+                }
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2669580739,
+        "id_str": "2669580739",
+        "name": "KFC UK & Ireland",
+        "screen_name": "KFC_UKI",
+        "location": "UK & Ireland",
+        "description": "Customer Care - @KFC_UKI_Help\n\nSnapchat - KFC_UKI",
+        "url": "http://t.co/LlCdWdv7T3",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/LlCdWdv7T3",
+                        "expanded_url": "http://www.kfc.co.uk/",
+                        "display_url": "kfc.co.uk",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 60907,
+        "friends_count": 4665,
+        "listed_count": 259,
+        "created_at": "Tue Jul 22 14:23:30 +0000 2014",
+        "favourites_count": 10197,
+        "utc_offset": 0,
+        "time_zone": "London",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 26421,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/504625476728418306/tZZU39R2.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/504625476728418306/tZZU39R2.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/804290535905259520/K6HVOG1O_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/804290535905259520/K6HVOG1O_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2669580739/1514893031",
+        "profile_link_color": "C42031",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Dec 30 23:47:46 +0000 2017",
+        "id": 947252904729219073,
+        "id_str": "947252904729219073",
+        "text": "The Colonel would be proud @kfc @KFC_UKI https://t.co/lIFdO3xEu6",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "kfc",
+                    "name": "KFC",
+                    "id": 15392391,
+                    "id_str": "15392391",
+                    "indices": [
+                        27,
+                        31
+                    ]
+                },
+                {
+                    "screen_name": "KFC_UKI",
+                    "name": "KFC UK & Ireland",
+                    "id": 2669580739,
+                    "id_str": "2669580739",
+                    "indices": [
+                        32,
+                        40
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 947252321381158913,
+                    "id_str": "947252321381158913",
+                    "indices": [
+                        41,
+                        64
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/947252321381158913/pu/img/VkBSki3iHYxYmNVO.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/947252321381158913/pu/img/VkBSki3iHYxYmNVO.jpg",
+                    "url": "https://t.co/lIFdO3xEu6",
+                    "display_url": "pic.twitter.com/lIFdO3xEu6",
+                    "expanded_url": "https://twitter.com/JustinDealey/status/947252904729219073/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 848,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 848,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 385,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 947252321381158913,
+                    "id_str": "947252321381158913",
+                    "indices": [
+                        41,
+                        64
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/947252321381158913/pu/img/VkBSki3iHYxYmNVO.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/947252321381158913/pu/img/VkBSki3iHYxYmNVO.jpg",
+                    "url": "https://t.co/lIFdO3xEu6",
+                    "display_url": "pic.twitter.com/lIFdO3xEu6",
+                    "expanded_url": "https://twitter.com/JustinDealey/status/947252904729219073/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 848,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 848,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 385,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            53,
+                            30
+                        ],
+                        "duration_millis": 84800,
+                        "variants": [
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/947252321381158913/pu/vid/318x180/QO0TSqVdsc-6fYqO.mp4"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/947252321381158913/pu/vid/636x360/r2MDwMJcUdqIhV_g.mp4"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/947252321381158913/pu/pl/ZGJYlgZ6jXCK7Xx4.m3u8"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 252271613,
+            "id_str": "252271613",
+            "name": "Justin Dealey",
+            "screen_name": "JustinDealey",
+            "location": "",
+            "description": "Award Winning Reporter/Presenter. Full time at BBC 3CR. Also do stuff for BBC Radio London and BBC Look East.",
+            "url": "https://t.co/frQa6piKu6",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/frQa6piKu6",
+                            "expanded_url": "http://www.bbc.co.uk/programmes/p001d7lx/episodes/player",
+                            "display_url": "bbc.co.uk/programmes/p00\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3458,
+            "friends_count": 287,
+            "listed_count": 22,
+            "created_at": "Mon Feb 14 21:19:05 +0000 2011",
+            "favourites_count": 2968,
+            "utc_offset": -36000,
+            "time_zone": "Hawaii",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 5472,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/933466326114369536/j_aS1uhW_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/933466326114369536/j_aS1uhW_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/252271613/1511390469",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 154,
+        "favorite_count": 421,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 154,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

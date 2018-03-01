@@ -1,0 +1,381 @@
+{
+    "created_at": "Wed Nov 01 14:39:29 +0000 2017",
+    "id": 925734039901925376,
+    "id_str": "925734039901925376",
+    "text": "RT @KarlRennison: If you haven\u2019t tried a @KFC_UKI #doubledown burger, then I suggest you do so ASAP \ud83e\udd24 https://t.co/OuELOIyBv5",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "doubledown",
+                "indices": [
+                    50,
+                    61
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "KarlRennison",
+                "name": "Karl Rennison",
+                "id": 1531470529,
+                "id_str": "1531470529",
+                "indices": [
+                    3,
+                    16
+                ]
+            },
+            {
+                "screen_name": "KFC_UKI",
+                "name": "KFC UK & Ireland",
+                "id": 2669580739,
+                "id_str": "2669580739",
+                "indices": [
+                    41,
+                    49
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 925731800848232448,
+                "id_str": "925731800848232448",
+                "indices": [
+                    102,
+                    125
+                ],
+                "media_url": "http://pbs.twimg.com/media/DNjcKwrXcAAoGqF.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DNjcKwrXcAAoGqF.jpg",
+                "url": "https://t.co/OuELOIyBv5",
+                "display_url": "pic.twitter.com/OuELOIyBv5",
+                "expanded_url": "https://twitter.com/KarlRennison/status/925731807663984640/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 1136,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 1136,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 925731807663984640,
+                "source_status_id_str": "925731807663984640",
+                "source_user_id": 1531470529,
+                "source_user_id_str": "1531470529"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 925731800848232448,
+                "id_str": "925731800848232448",
+                "indices": [
+                    102,
+                    125
+                ],
+                "media_url": "http://pbs.twimg.com/media/DNjcKwrXcAAoGqF.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DNjcKwrXcAAoGqF.jpg",
+                "url": "https://t.co/OuELOIyBv5",
+                "display_url": "pic.twitter.com/OuELOIyBv5",
+                "expanded_url": "https://twitter.com/KarlRennison/status/925731807663984640/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 1136,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 1136,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 925731807663984640,
+                "source_status_id_str": "925731807663984640",
+                "source_user_id": 1531470529,
+                "source_user_id_str": "1531470529"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2669580739,
+        "id_str": "2669580739",
+        "name": "KFC UK & Ireland",
+        "screen_name": "KFC_UKI",
+        "location": "UK & Ireland",
+        "description": "Customer Care - @KFC_UKI_Help\n\nSnapchat - KFC_UKI",
+        "url": "http://t.co/LlCdWdv7T3",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/LlCdWdv7T3",
+                        "expanded_url": "http://www.kfc.co.uk/",
+                        "display_url": "kfc.co.uk",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 60907,
+        "friends_count": 4665,
+        "listed_count": 259,
+        "created_at": "Tue Jul 22 14:23:30 +0000 2014",
+        "favourites_count": 10197,
+        "utc_offset": 0,
+        "time_zone": "London",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 26421,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/504625476728418306/tZZU39R2.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/504625476728418306/tZZU39R2.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/804290535905259520/K6HVOG1O_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/804290535905259520/K6HVOG1O_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2669580739/1514893031",
+        "profile_link_color": "C42031",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Nov 01 14:30:36 +0000 2017",
+        "id": 925731807663984640,
+        "id_str": "925731807663984640",
+        "text": "If you haven\u2019t tried a @KFC_UKI #doubledown burger, then I suggest you do so ASAP \ud83e\udd24 https://t.co/OuELOIyBv5",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "doubledown",
+                    "indices": [
+                        32,
+                        43
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "KFC_UKI",
+                    "name": "KFC UK & Ireland",
+                    "id": 2669580739,
+                    "id_str": "2669580739",
+                    "indices": [
+                        23,
+                        31
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 925731800848232448,
+                    "id_str": "925731800848232448",
+                    "indices": [
+                        84,
+                        107
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DNjcKwrXcAAoGqF.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DNjcKwrXcAAoGqF.jpg",
+                    "url": "https://t.co/OuELOIyBv5",
+                    "display_url": "pic.twitter.com/OuELOIyBv5",
+                    "expanded_url": "https://twitter.com/KarlRennison/status/925731807663984640/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 1136,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 383,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 1136,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 925731800848232448,
+                    "id_str": "925731800848232448",
+                    "indices": [
+                        84,
+                        107
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DNjcKwrXcAAoGqF.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DNjcKwrXcAAoGqF.jpg",
+                    "url": "https://t.co/OuELOIyBv5",
+                    "display_url": "pic.twitter.com/OuELOIyBv5",
+                    "expanded_url": "https://twitter.com/KarlRennison/status/925731807663984640/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 1136,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 383,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 1136,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1531470529,
+            "id_str": "1531470529",
+            "name": "Karl Rennison",
+            "screen_name": "KarlRennison",
+            "location": "",
+            "description": "#LUFC #motogp #wsbk #bsb #roadracing #TT #aircooled #campervan #tattoos #beard #running #marathonrunner #carp #fishing #snapchat karlosleeds #itsnicetobenice",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1693,
+            "friends_count": 884,
+            "listed_count": 35,
+            "created_at": "Wed Jun 19 17:19:44 +0000 2013",
+            "favourites_count": 47338,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 16747,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/892810165971554304/2BEiNX6J_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/892810165971554304/2BEiNX6J_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1531470529/1467152848",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 35,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

@@ -1,0 +1,279 @@
+{
+    "created_at": "Tue Jun 06 10:59:32 +0000 2017",
+    "id": 872045285505105924,
+    "id_str": "872045285505105924",
+    "text": "RT @TrendingLive: Battle of the Chicken @NandosUK or @KFC_UKI \ud83d\udc14 Can we not just have both? Please!\n\nCatch @PixieLott on #TrendingLive today\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TrendingLive",
+                "indices": [
+                    120,
+                    133
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "TrendingLive",
+                "name": "Trending Live",
+                "id": 777860821506490368,
+                "id_str": "777860821506490368",
+                "indices": [
+                    3,
+                    16
+                ]
+            },
+            {
+                "screen_name": "NandosUK",
+                "name": "Nando's",
+                "id": 20241784,
+                "id_str": "20241784",
+                "indices": [
+                    40,
+                    49
+                ]
+            },
+            {
+                "screen_name": "KFC_UKI",
+                "name": "KFC UK & Ireland",
+                "id": 2669580739,
+                "id_str": "2669580739",
+                "indices": [
+                    53,
+                    61
+                ]
+            },
+            {
+                "screen_name": "PixieLott",
+                "name": "Pixie Lott",
+                "id": 17711046,
+                "id_str": "17711046",
+                "indices": [
+                    106,
+                    116
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2669580739,
+        "id_str": "2669580739",
+        "name": "KFC UK & Ireland",
+        "screen_name": "KFC_UKI",
+        "location": "UK & Ireland",
+        "description": "Customer Care - @KFC_UKI_Help\n\nSnapchat - KFC_UKI",
+        "url": "http://t.co/LlCdWdv7T3",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/LlCdWdv7T3",
+                        "expanded_url": "http://www.kfc.co.uk/",
+                        "display_url": "kfc.co.uk",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 60907,
+        "friends_count": 4665,
+        "listed_count": 259,
+        "created_at": "Tue Jul 22 14:23:30 +0000 2014",
+        "favourites_count": 10197,
+        "utc_offset": 0,
+        "time_zone": "London",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 26421,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/504625476728418306/tZZU39R2.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/504625476728418306/tZZU39R2.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/804290535905259520/K6HVOG1O_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/804290535905259520/K6HVOG1O_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2669580739/1514893031",
+        "profile_link_color": "C42031",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jun 05 14:03:42 +0000 2017",
+        "id": 871729245919358977,
+        "id_str": "871729245919358977",
+        "text": "Battle of the Chicken @NandosUK or @KFC_UKI \ud83d\udc14 Can we not just have both? Please!\n\nCatch @PixieLott on #TrendingLive\u2026 https://t.co/yFK1ZWMRN6",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TrendingLive",
+                    "indices": [
+                        102,
+                        115
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "NandosUK",
+                    "name": "Nando's",
+                    "id": 20241784,
+                    "id_str": "20241784",
+                    "indices": [
+                        22,
+                        31
+                    ]
+                },
+                {
+                    "screen_name": "KFC_UKI",
+                    "name": "KFC UK & Ireland",
+                    "id": 2669580739,
+                    "id_str": "2669580739",
+                    "indices": [
+                        35,
+                        43
+                    ]
+                },
+                {
+                    "screen_name": "PixieLott",
+                    "name": "Pixie Lott",
+                    "id": 17711046,
+                    "id_str": "17711046",
+                    "indices": [
+                        88,
+                        98
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/yFK1ZWMRN6",
+                    "expanded_url": "https://twitter.com/i/web/status/871729245919358977",
+                    "display_url": "twitter.com/i/web/status/8\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 777860821506490368,
+            "id_str": "777860821506490368",
+            "name": "Trending Live",
+            "screen_name": "TrendingLive",
+            "location": "4Music - Freeview 18, Sky 362",
+            "description": "We're live, Monday-Thursday 4-6pm on the UK's biggest music channel @4Music.",
+            "url": "https://t.co/9SvG8pq8vY",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9SvG8pq8vY",
+                            "expanded_url": "http://www.facebook.com/trendinglive",
+                            "display_url": "facebook.com/trendinglive",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 8858,
+            "friends_count": 228,
+            "listed_count": 36,
+            "created_at": "Mon Sep 19 13:24:06 +0000 2016",
+            "favourites_count": 7113,
+            "utc_offset": -28800,
+            "time_zone": "Pacific Time (US & Canada)",
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 2352,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/792052281554378753/gxFoVCXw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/792052281554378753/gxFoVCXw_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/777860821506490368/1498161871",
+            "profile_link_color": "7FDBB6",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 37,
+        "favorite_count": 62,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 37,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

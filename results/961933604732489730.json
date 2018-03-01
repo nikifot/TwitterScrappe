@@ -1,0 +1,203 @@
+{
+    "created_at": "Fri Feb 09 12:03:37 +0000 2018",
+    "id": 961933604732489730,
+    "id_str": "961933604732489730",
+    "text": "No Boneless Banquet tonight \ud83d\udc40...\n\n#FiftyShadesFreed https://t.co/Iv54PoLu8G",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FiftyShadesFreed",
+                "indices": [
+                    34,
+                    51
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 961933350201110528,
+                "id_str": "961933350201110528",
+                "indices": [
+                    52,
+                    75
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/961933350201110528/pu/img/uCI2ZXvdA98x7hxt.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/961933350201110528/pu/img/uCI2ZXvdA98x7hxt.jpg",
+                "url": "https://t.co/Iv54PoLu8G",
+                "display_url": "pic.twitter.com/Iv54PoLu8G",
+                "expanded_url": "https://twitter.com/KFC_UKI/status/961933604732489730/video/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 640,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 640,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 961933350201110528,
+                "id_str": "961933350201110528",
+                "indices": [
+                    52,
+                    75
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/961933350201110528/pu/img/uCI2ZXvdA98x7hxt.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/961933350201110528/pu/img/uCI2ZXvdA98x7hxt.jpg",
+                "url": "https://t.co/Iv54PoLu8G",
+                "display_url": "pic.twitter.com/Iv54PoLu8G",
+                "expanded_url": "https://twitter.com/KFC_UKI/status/961933604732489730/video/1",
+                "type": "video",
+                "sizes": {
+                    "medium": {
+                        "w": 640,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 640,
+                        "resize": "fit"
+                    }
+                },
+                "video_info": {
+                    "aspect_ratio": [
+                        1,
+                        1
+                    ],
+                    "duration_millis": 8400,
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/961933350201110528/pu/pl/QjgPSjRfPUPTzNFi.m3u8"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/961933350201110528/pu/vid/240x240/FCsPEp14Y2QgZajW.mp4"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/961933350201110528/pu/vid/480x480/ArdDlIVr_iyrx-oK.mp4"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false
+                }
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2669580739,
+        "id_str": "2669580739",
+        "name": "KFC UK & Ireland",
+        "screen_name": "KFC_UKI",
+        "location": "UK & Ireland",
+        "description": "Customer Care - @KFC_UKI_Help\n\nSnapchat - KFC_UKI",
+        "url": "http://t.co/LlCdWdv7T3",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/LlCdWdv7T3",
+                        "expanded_url": "http://www.kfc.co.uk/",
+                        "display_url": "kfc.co.uk",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 60907,
+        "friends_count": 4665,
+        "listed_count": 259,
+        "created_at": "Tue Jul 22 14:23:30 +0000 2014",
+        "favourites_count": 10197,
+        "utc_offset": 0,
+        "time_zone": "London",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 26421,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/504625476728418306/tZZU39R2.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/504625476728418306/tZZU39R2.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/804290535905259520/K6HVOG1O_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/804290535905259520/K6HVOG1O_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2669580739/1514893031",
+        "profile_link_color": "C42031",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 81,
+    "favorite_count": 310,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

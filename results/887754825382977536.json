@@ -1,0 +1,190 @@
+{
+    "created_at": "Wed Jul 19 19:23:38 +0000 2017",
+    "id": 887754825382977536,
+    "id_str": "887754825382977536",
+    "text": "@eksays @BBCWatchdog  https://t.co/RdSekahsiu",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "eksays",
+                "name": "EK",
+                "id": 581276182,
+                "id_str": "581276182",
+                "indices": [
+                    0,
+                    7
+                ]
+            },
+            {
+                "screen_name": "BBCWatchdog",
+                "name": "BBC Watchdog",
+                "id": 132849881,
+                "id_str": "132849881",
+                "indices": [
+                    8,
+                    20
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 887754815215984641,
+                "id_str": "887754815215984641",
+                "indices": [
+                    22,
+                    45
+                ],
+                "media_url": "http://pbs.twimg.com/media/DFHwTQiXYAEiU6c.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DFHwTQiXYAEiU6c.jpg",
+                "url": "https://t.co/RdSekahsiu",
+                "display_url": "pic.twitter.com/RdSekahsiu",
+                "expanded_url": "https://twitter.com/KFC_UKI/status/887754825382977536/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1042,
+                        "h": 1250,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 567,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1000,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 887754815215984641,
+                "id_str": "887754815215984641",
+                "indices": [
+                    22,
+                    45
+                ],
+                "media_url": "http://pbs.twimg.com/media/DFHwTQiXYAEiU6c.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DFHwTQiXYAEiU6c.jpg",
+                "url": "https://t.co/RdSekahsiu",
+                "display_url": "pic.twitter.com/RdSekahsiu",
+                "expanded_url": "https://twitter.com/KFC_UKI/status/887754825382977536/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1042,
+                        "h": 1250,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 567,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1000,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 887752811605348352,
+    "in_reply_to_status_id_str": "887752811605348352",
+    "in_reply_to_user_id": 581276182,
+    "in_reply_to_user_id_str": "581276182",
+    "in_reply_to_screen_name": "eksays",
+    "user": {
+        "id": 2669580739,
+        "id_str": "2669580739",
+        "name": "KFC UK & Ireland",
+        "screen_name": "KFC_UKI",
+        "location": "UK & Ireland",
+        "description": "Customer Care - @KFC_UKI_Help\n\nSnapchat - KFC_UKI",
+        "url": "http://t.co/LlCdWdv7T3",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/LlCdWdv7T3",
+                        "expanded_url": "http://www.kfc.co.uk/",
+                        "display_url": "kfc.co.uk",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 60907,
+        "friends_count": 4665,
+        "listed_count": 259,
+        "created_at": "Tue Jul 22 14:23:30 +0000 2014",
+        "favourites_count": 10197,
+        "utc_offset": 0,
+        "time_zone": "London",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 26421,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/504625476728418306/tZZU39R2.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/504625476728418306/tZZU39R2.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/804290535905259520/K6HVOG1O_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/804290535905259520/K6HVOG1O_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2669580739/1514893031",
+        "profile_link_color": "C42031",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+}

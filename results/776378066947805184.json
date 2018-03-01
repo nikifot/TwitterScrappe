@@ -1,0 +1,534 @@
+{
+    "created_at": "Thu Sep 15 11:12:10 +0000 2016",
+    "id": 776378066947805184,
+    "id_str": "776378066947805184",
+    "text": "RT @AdamYT: Spending my first five pound note on @KFC_UKI https://t.co/VsAnKP6ut3",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "AdamYT",
+                "name": "adam",
+                "id": 556002688,
+                "id_str": "556002688",
+                "indices": [
+                    3,
+                    10
+                ]
+            },
+            {
+                "screen_name": "KFC_UKI",
+                "name": "KFC UK & Ireland",
+                "id": 2669580739,
+                "id_str": "2669580739",
+                "indices": [
+                    49,
+                    57
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 776377386761846784,
+                "id_str": "776377386761846784",
+                "indices": [
+                    58,
+                    81
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/776377386761846784/pu/img/_7XEj__uPaMz5ms9.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/776377386761846784/pu/img/_7XEj__uPaMz5ms9.jpg",
+                "url": "https://t.co/VsAnKP6ut3",
+                "display_url": "pic.twitter.com/VsAnKP6ut3",
+                "expanded_url": "https://twitter.com/AdamYT/status/776377617855422464/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 776377617855422464,
+                "source_status_id_str": "776377617855422464",
+                "source_user_id": 556002688,
+                "source_user_id_str": "556002688"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 776377386761846784,
+                "id_str": "776377386761846784",
+                "indices": [
+                    58,
+                    81
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/776377386761846784/pu/img/_7XEj__uPaMz5ms9.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/776377386761846784/pu/img/_7XEj__uPaMz5ms9.jpg",
+                "url": "https://t.co/VsAnKP6ut3",
+                "display_url": "pic.twitter.com/VsAnKP6ut3",
+                "expanded_url": "https://twitter.com/AdamYT/status/776377617855422464/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 776377617855422464,
+                "source_status_id_str": "776377617855422464",
+                "source_user_id": 556002688,
+                "source_user_id_str": "556002688",
+                "video_info": {
+                    "aspect_ratio": [
+                        9,
+                        16
+                    ],
+                    "duration_millis": 5969,
+                    "variants": [
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/776377386761846784/pu/vid/360x640/MRk1htu7HFvBZdXb.mp4"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/776377386761846784/pu/pl/TlnRwShU0FAXK0b7.m3u8"
+                        },
+                        {
+                            "bitrate": 320000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/776377386761846784/pu/vid/180x320/19scYJBcabwJpTk0.mp4"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/776377386761846784/pu/vid/720x1280/8IvO4cEjTp3mfKcp.mp4"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false,
+                    "source_user": {
+                        "id": 556002688,
+                        "id_str": "556002688",
+                        "name": "adam",
+                        "screen_name": "AdamYT",
+                        "location": "United Kingdom",
+                        "description": "19 \u2022 Editor | adam@edit.yt",
+                        "url": "https://t.co/zDNKNm5Hn7",
+                        "entities": {
+                            "url": {
+                                "urls": [
+                                    {
+                                        "url": "https://t.co/zDNKNm5Hn7",
+                                        "expanded_url": "http://edit.yt",
+                                        "display_url": "edit.yt",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            },
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "protected": false,
+                        "followers_count": 22233,
+                        "friends_count": 583,
+                        "listed_count": 90,
+                        "created_at": "Tue Apr 17 14:14:36 +0000 2012",
+                        "favourites_count": 59492,
+                        "utc_offset": 0,
+                        "time_zone": "London",
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 8100,
+                        "lang": "en",
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "233647",
+                        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/432519754738192385/AQV97R3S.jpeg",
+                        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/432519754738192385/AQV97R3S.jpeg",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/953679546506674176/LclvtYdY_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/953679546506674176/LclvtYdY_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/556002688/1505089643",
+                        "profile_link_color": "000000",
+                        "profile_sidebar_border_color": "2E3F47",
+                        "profile_sidebar_fill_color": "95DAEA",
+                        "profile_text_color": "0D1E28",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": false,
+                        "follow_request_sent": false,
+                        "notifications": false,
+                        "translator_type": "regular"
+                    }
+                }
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2669580739,
+        "id_str": "2669580739",
+        "name": "KFC UK & Ireland",
+        "screen_name": "KFC_UKI",
+        "location": "UK & Ireland",
+        "description": "Customer Care - @KFC_UKI_Help\n\nSnapchat - KFC_UKI",
+        "url": "http://t.co/LlCdWdv7T3",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/LlCdWdv7T3",
+                        "expanded_url": "http://www.kfc.co.uk/",
+                        "display_url": "kfc.co.uk",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 60907,
+        "friends_count": 4665,
+        "listed_count": 259,
+        "created_at": "Tue Jul 22 14:23:30 +0000 2014",
+        "favourites_count": 10197,
+        "utc_offset": 0,
+        "time_zone": "London",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 26421,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/504625476728418306/tZZU39R2.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/504625476728418306/tZZU39R2.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/804290535905259520/K6HVOG1O_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/804290535905259520/K6HVOG1O_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2669580739/1514893031",
+        "profile_link_color": "C42031",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Sep 15 11:10:23 +0000 2016",
+        "id": 776377617855422464,
+        "id_str": "776377617855422464",
+        "text": "Spending my first five pound note on @KFC_UKI https://t.co/VsAnKP6ut3",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "KFC_UKI",
+                    "name": "KFC UK & Ireland",
+                    "id": 2669580739,
+                    "id_str": "2669580739",
+                    "indices": [
+                        37,
+                        45
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 776377386761846784,
+                    "id_str": "776377386761846784",
+                    "indices": [
+                        46,
+                        69
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/776377386761846784/pu/img/_7XEj__uPaMz5ms9.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/776377386761846784/pu/img/_7XEj__uPaMz5ms9.jpg",
+                    "url": "https://t.co/VsAnKP6ut3",
+                    "display_url": "pic.twitter.com/VsAnKP6ut3",
+                    "expanded_url": "https://twitter.com/AdamYT/status/776377617855422464/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 383,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 1280,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 776377386761846784,
+                    "id_str": "776377386761846784",
+                    "indices": [
+                        46,
+                        69
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/776377386761846784/pu/img/_7XEj__uPaMz5ms9.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/776377386761846784/pu/img/_7XEj__uPaMz5ms9.jpg",
+                    "url": "https://t.co/VsAnKP6ut3",
+                    "display_url": "pic.twitter.com/VsAnKP6ut3",
+                    "expanded_url": "https://twitter.com/AdamYT/status/776377617855422464/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 383,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 1280,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            9,
+                            16
+                        ],
+                        "duration_millis": 5969,
+                        "variants": [
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/776377386761846784/pu/vid/360x640/MRk1htu7HFvBZdXb.mp4"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/776377386761846784/pu/pl/TlnRwShU0FAXK0b7.m3u8"
+                            },
+                            {
+                                "bitrate": 320000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/776377386761846784/pu/vid/180x320/19scYJBcabwJpTk0.mp4"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/776377386761846784/pu/vid/720x1280/8IvO4cEjTp3mfKcp.mp4"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 556002688,
+            "id_str": "556002688",
+            "name": "adam",
+            "screen_name": "AdamYT",
+            "location": "United Kingdom",
+            "description": "19 \u2022 Editor | adam@edit.yt",
+            "url": "https://t.co/zDNKNm5Hn7",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/zDNKNm5Hn7",
+                            "expanded_url": "http://edit.yt",
+                            "display_url": "edit.yt",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 22233,
+            "friends_count": 583,
+            "listed_count": 90,
+            "created_at": "Tue Apr 17 14:14:36 +0000 2012",
+            "favourites_count": 59492,
+            "utc_offset": 0,
+            "time_zone": "London",
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 8100,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "233647",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/432519754738192385/AQV97R3S.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/432519754738192385/AQV97R3S.jpeg",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/953679546506674176/LclvtYdY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/953679546506674176/LclvtYdY_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/556002688/1505089643",
+            "profile_link_color": "000000",
+            "profile_sidebar_border_color": "2E3F47",
+            "profile_sidebar_fill_color": "95DAEA",
+            "profile_text_color": "0D1E28",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "345e598b6364b556",
+            "url": "https://api.twitter.com/1.1/geo/id/345e598b6364b556.json",
+            "place_type": "city",
+            "name": "Kendal",
+            "full_name": "Kendal, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.7633559,
+                            54.306661
+                        ],
+                        [
+                            -2.7191367,
+                            54.306661
+                        ],
+                        [
+                            -2.7191367,
+                            54.346549
+                        ],
+                        [
+                            -2.7633559,
+                            54.346549
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 30,
+        "favorite_count": 60,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 30,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}
